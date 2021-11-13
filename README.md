@@ -1,2 +1,2 @@
-# Matrix Factorization implementation
+# Matrix Factorization implementation for a movie recommendation system
  
